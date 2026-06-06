@@ -25,7 +25,7 @@ My target roles span **GRC Analyst**, **Information Security Analyst**, **Compli
 
 | Credential | Issuer | Status | Year |
 |---|---|---|---|
-| MSc Cybersecurity | University | In Progress | 2025–2026 |
+| MSc Cybersecurity | University of Sunderland | In Progress | 2026–2027 |
 | PECB ISO/IEC 27001 Lead Implementer | PECB | Preparing | 2026 |
 | Cisco Certified CyberOps Associate | Cisco | ✅ Completed | 2025 |
 | Cybersecurity Analyst Job Simulation (Tata / IAM) | Forage | ✅ Completed | Feb 2025 |
