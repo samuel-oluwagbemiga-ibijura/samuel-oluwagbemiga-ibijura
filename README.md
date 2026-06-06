@@ -139,7 +139,6 @@ My target roles span **GRC Analyst**, **Information Security Analyst**, **Compli
 
 - 📚 Completing **MSc Cybersecurity** dissertation
 - 📝 Preparing for **PECB ISO/IEC 27001 Lead Implementer** examination
-- 🔨 Building additional portfolio projects — SOC analyst lab, threat intelligence report
 - 🎯 Targeting GRC Analyst and Cybersecurity Analyst roles in financial services and consulting
 
 ---
