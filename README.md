@@ -15,7 +15,7 @@
 
 I am a cybersecurity and GRC professional with hands-on experience in information security governance, risk assessment, compliance frameworks, and security operations. I combine practical technical skills from a 2-month SOC internship and industry work experience with deep GRC expertise demonstrated through a full five-project portfolio built for a fictional UK-regulated fintech, CyroPay Ltd.
 
-I am currently completing an **MSc in Cybersecurity** and preparing for the **PECB ISO/IEC 27001 Lead Implementer** examination, building on my **Cisco Certified CyberOps Associate** certification and prior experience as an **IT Security Analyst at Bincom Global, Lagos**.
+I am currently completing an **MSc in Cybersecurity**, holding my **PECB ISO/IEC 27001 Lead Implementer** and **Cisco Certified CyberOps Associate** certifications, alongside prior experience as an **IT Security Analyst at Bincom Global, Lagos**.
 
 My target roles span **GRC Analyst**, **Information Security Analyst**, **Compliance Analyst**, **Risk Analyst**, and **Cybersecurity Analyst** across financial services, consulting, and technology sectors.
 
@@ -26,7 +26,7 @@ My target roles span **GRC Analyst**, **Information Security Analyst**, **Compli
 | Credential | Issuer | Status | Year |
 |---|---|---|---|
 | MSc Cybersecurity | University of Sunderland | In Progress | 2026–2027 |
-| PECB ISO/IEC 27001 Lead Implementer | PECB | Preparing | 2026 |
+| PECB ISO/IEC 27001 Lead Implementer | PECB | ✅ Certified | 2026 |
 | Cisco Certified CyberOps Associate | Cisco | ✅ Completed | 2025 |
 | Cybersecurity Analyst Job Simulation (Tata / IAM) | Forage | ✅ Completed | Feb 2025 |
 | Cybersecurity Job Simulation (Mastercard) | Forage | ✅ Completed | Feb 2025 |
@@ -138,7 +138,6 @@ My target roles span **GRC Analyst**, **Information Security Analyst**, **Compli
 ## What I Am Currently Working On
 
 - 📚 Completing **MSc Cybersecurity** dissertation
-- 📝 Preparing for **PECB ISO/IEC 27001 Lead Implementer** examination
 - 🎯 Targeting GRC Analyst and Cybersecurity Analyst roles in financial services and consulting
 
 ---
